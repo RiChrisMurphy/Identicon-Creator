@@ -1,7 +1,7 @@
 # Identicon
 
-**TODO: Add description**
-
+Little Elixir program to generate github-like identicons
+Run with iex -S mix and type Identicon.main("Enter your own string here to generate image")
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
